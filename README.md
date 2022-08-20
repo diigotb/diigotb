@@ -1,4 +1,4 @@
-## Olá! eu sou o Rodrigo Toledo, <br/> estudante de programação e tecnologia!
+## Hello World! eu sou o Rodrigo Toledo 🖐️ <br/> Estudante de programação e tecnologia! 
 
 
 <b>😝 Apaixonado por esse Universo chamado Tecnologia!<br>
